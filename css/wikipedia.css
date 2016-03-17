@@ -1,0 +1,11 @@
+.sidebar {
+  width: 15%;
+  min-height: 2200px;
+  background-color: #E0E0E0;
+  float: left;
+  text-align: left;
+}
+
+ul {
+  list-style-type: none;
+}
