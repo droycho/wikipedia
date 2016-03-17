@@ -4,8 +4,17 @@
   background-color: #E0E0E0;
   float: left;
   text-align: left;
+  margin-top: -50px;
 }
 
 ul {
   list-style-type: none;
+}
+
+.navbar-form {
+  float: right;
+}
+
+.navbar {
+  margin-left: 15%;
 }
