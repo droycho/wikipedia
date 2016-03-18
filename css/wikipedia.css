@@ -1,10 +1,10 @@
 .sidebar {
-  width: 20%;
+  width: 15%;
   min-height: 2200px;
   background-color: #E0E0E0;
   float: left;
   text-align: left;
-  margin-top: -100px;
+
 }
 
 ul {
@@ -13,6 +13,7 @@ ul {
 
 .linkslist {
   list-style-type: disc;
+  font-size: 12px;
 }
 
 .navbar-form {
@@ -20,7 +21,7 @@ ul {
 }
 
 .navbar {
-  margin-left: 20%;
+  margin-left: 15%;
 }
 
 .jumbotron {
@@ -28,5 +29,17 @@ ul {
   margin-left: 10px;
   margin-right: 100px;
   display: inline-block;
+}
 
+h2 {
+  font-size: 25px;
+}
+
+.toptext {
+  font-size: 12px;
+}
+
+h4 {
+  font-weight: normal;
+  font-size: 15px;
 }
